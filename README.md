@@ -3,7 +3,8 @@ This repository demonstrates how to run MATLAB tests on GitHub® Actions by crea
 
 ## Badges
 |CI in MATLAB|
-|:--:|:--:|:--:|:--:|:--:|:--:|
+|:--:|
+[![MATLAB Build](https://github.com/souhardyaltts/Scripting_Integrating_with_CI/actions/workflows/ci.yml/badge.svg)](https://github.com/souhardyaltts/Scripting_Integrating_with_CI/actions/workflows/ci.yml)|
 
 ### Reference
 1. Mathworks
