@@ -2,8 +2,8 @@
 This repository demonstrates how to run MATLAB tests on GitHub® Actions by creating Github workflows.
 
 ## Badges
-|---|---|
-|CI in MATLAB||
+|CI in MATLAB|
+|:--:|:--:|:--:|:--:|:--:|:--:|
 
 ### Reference
 1. Mathworks
